@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 hanhan
 
 123
-=======
+
 new line
->>>>>>> Michael
+
